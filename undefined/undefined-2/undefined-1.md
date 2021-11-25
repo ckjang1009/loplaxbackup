@@ -95,7 +95,7 @@ description: 캠페인 생성>캠페인 위치 설정
 
 ## <mark style="color:blue;">주거지</mark>
 
-![](<../../.gitbook/assets/image (21).png>)
+![](<../../.gitbook/assets/image (21) (1).png>)
 
 주거지 캠페인은 설정된 행정구역의 주거지 지역에 캠페인 대상자가 방문했을때 캠페인 매칭이 됩니다. 단 지오펜스 및 상권, 브랜드/매장/카테고리 설정은 이용할 수 없습니다.
 

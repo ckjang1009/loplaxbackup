@@ -4,6 +4,10 @@ description: Basic, Premium membership
 
 # 세그먼트 업로드
 
+헤더 사용자 세그먼트> 업로드 선택
+
+![](<../.gitbook/assets/image (21).png>)
+
 ![](<../.gitbook/assets/image (14).png>)
 
 1. 사용자 세그먼트의 이름을 설정할 수 있습니다.
