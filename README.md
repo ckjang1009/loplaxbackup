@@ -6,8 +6,8 @@ description: Lite, Basic, Premium membership
 
 ### **적용범위**
 
-* ****[**loplat X**](https://x.loplat.com)****
-* ****[**위치기반 마케팅 서비스**](https://lbms.uplus.co.kr)****
+* [**loplat X**](https://x.loplat.com)
+* [**위치기반 마케팅 서비스**](https://lbms.uplus.co.kr)
 
 ### **멤버쉽 기능 비교**
 
@@ -43,15 +43,13 @@ _<mark style="color:orange;">\*Lite 요금제 이용시 제공된 기본 메시�
 
 ### Contact
 
-:telephone: 연락처 02-508-1225&#x20;
+:telephone: 연락처 02-508-1225
 
 :envelope\_with\_arrow: 고객문의 business@loplat.com
 
 :hourglass\_flowing\_sand:운영시간 AM 10:00 \~ PM 7:00
 
 ### Guide update history
-
-<mark style="background-color:orange;"></mark>[<mark style="background-color:orange;">(구)사용자 가이드 이용하기</mark>](https://loplat.atlassian.net/l/c/97ePpcJs)<mark style="background-color:orange;"></mark>
 
 {% hint style="info" %}
 21.11.26 v2.0.0
