@@ -14,7 +14,7 @@
 * [캠페인 수정](undefined/undefined-3.md)
 * [캠페인 복사](undefined/undefined-4.md)
 * [캠페인 방문 성과](undefined/undefined-5.md)
-* [캠페인 이용 현황 for lite](undefined/for-lite.md)
+* [캠페인 이용 현황](undefined/for-lite.md)
 
 ## 🎣 세그먼트
 
@@ -34,7 +34,7 @@
 ## 🖥 Usage Monitoring
 
 * [SDK 사용 현황](usage-monitoring/sdk.md)
-* [POI 수집현황](usage-monitoring/poi.md)
+* [POI 수집 현황](usage-monitoring/poi.md)
 
 ## 🆘 help
 
