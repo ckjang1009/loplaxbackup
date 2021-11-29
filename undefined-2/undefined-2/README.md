@@ -8,7 +8,7 @@ description: Lite, Basic, Premium membership
 
 **지오펜스 그룹은 여러개의 지오펜스를 그룹핑하여 CSV 또는 엑셀 파일로 업로드하여 설정합니다.**
 
-좌측 메뉴에서 \*\*‘Locations > 지오펜스 그룹’ \*\*메뉴를 클릭하면 지오펜스 그룹 등록을 위한 가이드 화면이 표시됩니다.
+좌측 메뉴에서 **‘Locations > 지오펜스 그룹’** 메뉴를 클릭하면 지오펜스 그룹 등록을 위한 가이드 화면이 표시됩니다.
 
 ![](<../../.gitbook/assets/image (42).png>)
 
