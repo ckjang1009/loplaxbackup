@@ -4,36 +4,32 @@ description: Basic, Premium membership
 
 # 세그먼트 생성
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (82).png>)
 
 **사용자 세그먼트는 아래 3가지 절차를 통해서 등록할 수 있습니다.**
 
-![](<../.gitbook/assets/image (102).png>)
+![](<../.gitbook/assets/image (102) (1).png>)
 
 ### **1. 이름/설명 입력**
 
 \- **이름** (필수) : 사용자 세그먼트 이름을 입력합니다.\
 \- **설명** (선택) : 사용자 세그먼트에 대한 상세한 설명을 입력합니다.
 
-&#x20;
-
 ### **2. 방문 기간 설정**
 
 캠페인 실행 시점 기준으로 과거 방문 활동 기간을 설정합니다.\
-\- **최근   7일** : 최근  7일간 방문 기록이 있는 고객을 대상으로 합니다.\
+\- **최근 7일** : 최근 7일간 방문 기록이 있는 고객을 대상으로 합니다.\
 \- **최근 30일** : 최근 30일간 방문 기록이 있는 고객을 대상으로 합니다.\
 \- **최근 90일** : 최근 90일간 방문 기록이 있는 고객을 대상으로 합니다.\
 \- **최근 180일** : 최근 180일간 방문 기록이 있는 고객을 대상으로 합니다.
-
-&#x20;
 
 ### **3. 방문 위치 설정**
 
 #### **1. 지역/상권 선택**
 
-![](<../.gitbook/assets/image (70).png>)
+![](<../.gitbook/assets/image (67).png>)
 
-1**.** 선택한 지역과 상권 정보를 확인할 수 있습니다.
+1\. 선택한 지역과 상권 정보를 확인할 수 있습니다.
 
 2\. 왼쪽의 지도를 클릭해서 원하는 지역을 시/군/구 단위로 선택하거나, 한국감정원에 등록된 227개 상권 중에서\
 선택할 수 있습니다.
@@ -44,7 +40,7 @@ description: Basic, Premium membership
 
 #### 2. 브랜드/카테고리/매장 선택
 
-![](<../.gitbook/assets/image (30).png>)
+![](<../.gitbook/assets/image (103).png>)
 
 1\. 브랜드/매장을 직접 검색해서 선택할 수 있습니다.\
 ‘브랜드 찾기' 또는 ‘카테고리 찾기' 버튼을 클릭하면 팝업이 뜨며, 브랜드 또는 카테고리를 선택할 수 있습니다.\
@@ -58,10 +54,10 @@ description: Basic, Premium membership
 
 ### 4. 등록완료
 
-![](<../.gitbook/assets/image (88).png>)
+![](<../.gitbook/assets/image (33).png>)
 
 1\. 선택한 방문 기간 및 위치 조건에 해당하는 총 대상자를 확인할 수 있습니다.
 
-2\. ‘생성하기’ 버튼을 클릭하면 등록이 진행되며, 아래 **\[목록 화면]**으로 이동합니다. \
-<mark style="color:orange;">등록하고자 하는 고객 수에 따라서 등록이 완료되는데 수십 초에서 수 분까지 소요될 수 있습니다.</mark>\ <mark style="color:orange;">목록에서 상태 표시가</mark> <mark style="color:orange;">**‘처리 중'**</mark><mark style="color:orange;">으로 나타나며, 등록이 완료되면</mark> <mark style="color:orange;">**‘사용 가능'**</mark><mark style="color:orange;">으로 변경됩니다.</mark>\
+2\. ‘생성하기’ 버튼을 클릭하면 등록이 진행되며, 아래 **\[목록 화면]으로 이동합니다.**\
+<mark style="color:orange;">**등록하고자 하는 고객 수에 따라서 등록이 완료되는데 수십 초에서 수 분까지 소요될 수 있습니다.**</mark>**\ **<mark style="color:orange;">**목록에서 상태 표시가**</mark>** ‘처리 중'**<mark style="color:orange;">으로 나타나며, 등록이 완료되면</mark> <mark style="color:orange;">**‘사용 가능'**</mark><mark style="color:orange;">으로 변경됩니다.</mark>\
 ‘취소' 버튼을 클릭하면 입력한 모든 정보가 사라지고 바로 이전 페이지로 돌아갑니다.

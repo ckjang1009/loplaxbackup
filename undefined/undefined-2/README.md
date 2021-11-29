@@ -4,7 +4,7 @@ description: Lite, Basic, Premium membership
 
 # 캠페인 생성
 
-## <mark style="color:blue;">**캠페인 > 생성하기**</mark>\*\* \*\*
+## <mark style="color:blue;">**캠페인 > 생성하기**</mark>
 
 **광고 목적에 따라 타겟 APP, 사용자 세그먼트, 위치 및 기간, 메시지 알림 방식을 설정합니다.**
 
@@ -14,6 +14,6 @@ description: Lite, Basic, Premium membership
 
 <mark style="color:blue;">**캠페인은 7가지 절차를 통해 등록할 수 있습니다.**</mark>
 
-![](<../../.gitbook/assets/image (100).png>)
+![](<../../.gitbook/assets/image (100) (1).png>)
 
 ***

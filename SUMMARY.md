@@ -5,7 +5,8 @@
 ## ⛳ 캠페인
 
 * [캠페인 시작](undefined/undefined.md)
-* [캠페인 목록](undefined/undefined-1.md)
+* [캠페인 목록](undefined/undefined-1/README.md)
+  * [캠페인 관리 모바일](undefined/undefined-1/undefined.md)
 * [캠페인 생성](undefined/undefined-2/README.md)
   * [캠페인 기본 설정](undefined/undefined-2/undefined.md)
   * [캠페인 위치 설정](undefined/undefined-2/undefined-1.md)

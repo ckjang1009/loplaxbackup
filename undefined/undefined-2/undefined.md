@@ -13,7 +13,7 @@ description: 캠페인 생성>캠페인 기본 설정
 
 자사의 모바일 APP에 로플랫의 SDK가 탑재되면 탑재된 모든 APP이 목록에서 자동으로 제공되며, 캠페인을 실행할 타겟 APP을 단일 또는 다중으로 선택할 수 있습니다.
 
-![](<../../.gitbook/assets/image (99).png>)
+![](<../../.gitbook/assets/image (99) (1).png>)
 
 ### **사용자 세그먼트 설정**
 
@@ -21,7 +21,7 @@ description: 캠페인 생성>캠페인 기본 설정
 
 미리 설정한 세그먼트가 없을 경우에는 \*\*‘모든 사용자’\*\*가 기본으로 제공됩니다.
 
-![](<../../.gitbook/assets/image (24).png>)
+![](<../../.gitbook/assets/image (34).png>)
 
 1<mark style="color:blue;">.</mark> 설정한 사용자 세그먼트 이름입니다.
 
@@ -31,7 +31,7 @@ description: 캠페인 생성>캠페인 기본 설정
 
 #### <mark style="color:blue;">**\[세그먼트 선택]**</mark>
 
-![](<../../.gitbook/assets/image (103).png>)
+![](<../../.gitbook/assets/image (30).png>)
 
 1\. 사용자 세그먼트에서 설정한 방문 활동 기간입니다.
 
@@ -39,7 +39,7 @@ description: 캠페인 생성>캠페인 기본 설정
 
 ### **테스트용 광고 ID 설정 방법**
 
-![](<../../.gitbook/assets/image (109).png>)
+![](<../../.gitbook/assets/image (43).png>)
 
 #### <mark style="color:blue;">**‘테스트용 광고 ID’ 란?**</mark>
 
@@ -68,8 +68,8 @@ description: 캠페인 생성>캠페인 기본 설정
 
 **ADID, IDFA 확인 방법**
 
-![](<../../.gitbook/assets/image (83).png>)
+![](<../../.gitbook/assets/image (83) (1).png>)
 
-![](<../../.gitbook/assets/image (14) (1).png>)
+![](<../../.gitbook/assets/image (45).png>)
 
 테스트 광고ID가 추가되면 캠페인 목록에 다음과 같이 광고ID icon이 추가된다.

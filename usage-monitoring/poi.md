@@ -1,10 +1,10 @@
 ---
-description: Lite, Basic, Premium membership
+description: Basic, Premium membership
 ---
 
 # POI 수집 현황
 
-![](<../.gitbook/assets/image (37).png>)
+![](<../.gitbook/assets/image (37) (1).png>)
 
 전국 로플랫 POI 수집현황은 매일매일 업데이트 됩니다.
 
