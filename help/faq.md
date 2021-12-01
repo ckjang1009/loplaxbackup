@@ -42,9 +42,9 @@ description: Lite, Basic, Premium membership
 **성과 측정은 어떻게 하나요?**
 {% endhint %}
 
-> [메시지 성과 그래프](../undefined/undefined-1/#undefined-2): 총 수치는 10분마다 집계되며, 그래프 수치는 실시간으로 반영됩니다. 캠페인 성과분석 데이터: 당일 제외한 성과분석 이며, 기간은 사용자가 설정할 수 있습니다.
+> [메시지 성과 그래프](../campaigns/list/#undefined-2): 총 수치는 10분마다 집계되며, 그래프 수치는 실시간으로 반영됩니다. 캠페인 성과분석 데이터: 당일 제외한 성과분석 이며, 기간은 사용자가 설정할 수 있습니다.
 >
-> [캠페인 방문 성과](../undefined/undefined-5.md#undefined): 진행 또는 완료된 캠페인의 매장 방문 성과이며, 집계는 현재일 기준 전날까지 집계가 됩니다. 확인은 '캠페인 방문 성과'에서 확인이 가능합니다.
+> [캠페인 방문 성과](../campaigns/report.md#undefined): 진행 또는 완료된 캠페인의 매장 방문 성과이며, 집계는 현재일 기준 전날까지 집계가 됩니다. 확인은 '캠페인 방문 성과'에서 확인이 가능합니다.
 
 {% hint style="info" %}
 **데이터 정보 처리 보안은 안정적인가요?**
@@ -64,7 +64,7 @@ description: Lite, Basic, Premium membership
 **지오펜스를 여러개 등록하는 방법을 알려주세요.**
 {% endhint %}
 
-> [지오펜스 그룹 가이드](../undefined-2/undefined-2/#2.)를 참고하세요.
+> [지오펜스 그룹 가이드](../geofence/group/#2.)를 참고하세요.
 
 {% hint style="info" %}
 **브랜드 목록은 어디서 확인하나요?**

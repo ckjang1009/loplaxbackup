@@ -2,35 +2,35 @@
 
 * [🎯 loplat X 사용자 가이드](README.md)
 
-## ⛳ 캠페인
+## ⛳ 캠페인 <a href="#campaigns" id="campaigns"></a>
 
-* [캠페인 시작](undefined/undefined.md)
-* [캠페인 목록](undefined/undefined-1/README.md)
-  * [캠페인 관리 모바일](undefined/undefined-1/undefined.md)
-* [캠페인 생성](undefined/undefined-2/README.md)
-  * [캠페인 기본 설정](undefined/undefined-2/undefined.md)
-  * [캠페인 위치 설정](undefined/undefined-2/undefined-1.md)
-  * [캠페인 시간 및 실행 조건 설정](undefined/undefined-2/undefined-2.md)
-  * [캠페인 메시지 설정](undefined/undefined-2/undefined-3.md)
-* [캠페인 수정](undefined/undefined-3.md)
-* [캠페인 복사](undefined/undefined-4.md)
-* [캠페인 방문 성과](undefined/undefined-5.md)
-* [캠페인 이용 현황](undefined/for-lite.md)
+* [캠페인 시작](campaigns/start.md)
+* [캠페인 목록](campaigns/list/README.md)
+  * [캠페인 관리 모바일](campaigns/list/mobile.md)
+* [캠페인 생성](campaigns/create/README.md)
+  * [캠페인 기본 설정](campaigns/create/default-setting.md)
+  * [캠페인 위치 설정](campaigns/create/location-setting.md)
+  * [캠페인 시간 및 실행 조건 설정](campaigns/create/time-setting.md)
+  * [캠페인 메시지 설정](campaigns/create/message-setting.md)
+* [캠페인 수정](campaigns/edit.md)
+* [캠페인 복사](campaigns/copy.md)
+* [캠페인 방문 성과](campaigns/report.md)
+* [캠페인 이용 현황](campaigns/Usage-Status.md)
 
-## 🎣 세그먼트
+## 🎣 세그먼트 <a href="#segment" id="segment"></a>
 
-* [세그먼트](undefined-1/undefined.md)
-* [세그먼트 목록](undefined-1/undefined-1.md)
-* [세그먼트 생성](undefined-1/undefined-2.md)
-* [세그먼트 업로드](undefined-1/undefined-3.md)
+* [세그먼트](segment/segment-start.md)
+* [세그먼트 목록](segment/segment-list.md)
+* [세그먼트 생성](segment/segment-create.md)
+* [세그먼트 업로드](segment/upload.md)
 
-## 🌏 지오펜스
+## 🌏 지오펜스 <a href="#geofence" id="geofence"></a>
 
-* [지오펜스](undefined-2/undefined.md)
-* [지오펜스 단일](undefined-2/undefined-1/README.md)
-  * [지오펜스 단일 수정](undefined-2/undefined-1/undefined.md)
-* [지오펜스 그룹](undefined-2/undefined-2/README.md)
-  * [지오펜스 그룹 수정](undefined-2/undefined-2/undefined.md)
+* [지오펜스](geofence/geofence-start.md)
+* [지오펜스 단일](geofence/single/README.md)
+  * [지오펜스 단일 수정](geofence/single/edit.md)
+* [지오펜스 그룹](geofence/group/README.md)
+  * [지오펜스 그룹 수정](geofence/group/edit.md)
 
 ## 🖥 Usage Monitoring
 
