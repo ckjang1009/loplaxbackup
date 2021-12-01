@@ -6,7 +6,7 @@ description: Lite, Basic, Premium membership
 
 ### 캠페인 목록
 
-![](<../../.gitbook/assets/image (54).png>)
+![](<../../.gitbook/assets/image (2).png>)
 
 1. **생성하기**: 새로운 캠페인을 생성할 수 있다.
 2. **선택한 캠페인 삭제**: 7번 리스트상에 체크된 캠페인을 삭제할 수 있다.
