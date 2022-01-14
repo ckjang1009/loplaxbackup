@@ -4,7 +4,7 @@ description: Basic, Premium membership
 
 # 세그먼트 업로드
 
-헤더 사용자 세그먼트> 업로드 선택
+사용자 세그먼트> 업로드 선택
 
 ![](<../.gitbook/assets/image (96).png>)
 
