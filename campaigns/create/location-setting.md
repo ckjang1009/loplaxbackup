@@ -18,7 +18,7 @@ description: 캠페인 생성>캠페인 위치 설정
 
 ‘Locations > 지오펜스’ 또는 ‘Locations > 지오펜스 그룹'에서 설정한 지오펜스 목록이 제공됩니다.
 
-![](<../../.gitbook/assets/image (79).png>)
+![](<../../.gitbook/assets/image (79) (1).png>)
 
 ### **지오펜스 목록**
 
