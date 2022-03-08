@@ -10,7 +10,7 @@ description: Lite, Basic, Premium membership
 
 좌측 메뉴에서 **‘Locations > 지오펜스 그룹’** 메뉴를 클릭하면 지오펜스 그룹 등록을 위한 가이드 화면이 표시됩니다.
 
-![](<../../.gitbook/assets/image (42).png>)
+![](<../../.gitbook/assets/image (42) (1).png>)
 
 **지오펜스 그룹은 아래 3가지 절차를 통해서 등록할 수 있습니다.**
 
@@ -72,7 +72,7 @@ description: Lite, Basic, Premium membership
 예) (127.11 37.11,127.22 37.11,127.22 37.22,127.11 37.22,127.11 37.11)
 {% endhint %}
 
-![](<../../.gitbook/assets/image (75).png>)
+![](<../../.gitbook/assets/image (75) (1).png>)
 
 3\. 작성 후 저장하고 파일을 업로드 합니다.
 

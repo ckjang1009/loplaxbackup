@@ -38,7 +38,7 @@ description: 캠페인 생성>캠페인 위치 설정
 
 ### 지오펜스 그룹 목록
 
-![](<../../.gitbook/assets/image (90).png>)
+![](<../../.gitbook/assets/image (90) (1).png>)
 
 1\. 폴리곤 갯수
 
