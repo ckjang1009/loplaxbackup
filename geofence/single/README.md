@@ -71,7 +71,7 @@ description: Lite, Basic, Premium membership
 삭제 시 그린 지역을 선택하고 마우스 오른쪽 버튼을 클릭하면 ‘삭제' 버튼\
 또는 지도 상단바 :wastebasket:버튼을 활용하여 삭제하면 됩니다.
 
-![](<../../.gitbook/assets/image (43) (1).png>)
+![](<../../.gitbook/assets/image (43) (1) (1).png>)
 
 ### 3. 등록완료
 
